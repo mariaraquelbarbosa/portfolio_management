@@ -1,2 +1,2 @@
-# portfolio_management
+# Portfolio Management
 Introduction to investment portfolio management
